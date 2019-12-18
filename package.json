@@ -106,6 +106,7 @@
     "random-token": "0.0.8",
     "request": "^2.88.0",
     "semver": "^6.3.0",
+    "serverless-dynamodb-client": "0.0.2",
     "share2nightscout-bridge": "^0.2.1",
     "shiro-trie": "^0.4.8",
     "simple-statistics": "^0.7.0",
